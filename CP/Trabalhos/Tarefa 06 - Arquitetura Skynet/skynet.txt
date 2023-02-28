@@ -1,0 +1,55 @@
+Dados:
+
+Número de cientistas no mundo aproximadamente 7,8 milhões (2013).
+
+Número de cientistas no mundo aproximadamente 9,4 milhões (2018).
+
+Número de cientistas no mundo aproximadamente 11,4 milhões (2025).
+
+ 
+
+Cérebro humano computa até 38 * 10^15 FLOPS.
+
+Supercomputador(Summit) computa até 200 * 10^15 FLOPS.
+
+ 
+
+Energia gasta pelo cérebro 20 Watts.
+
+Energia gasta pelo Summit(supercomputador) 13.889 GFlops/watts.
+
+ 
+
+Para conseguir substituir todos os cientistas do mundo será necessário no mínimo um supercomputador que compute 9.4 * 10^6 * 38 * 10^15 FLOPS para substituir o Summit.
+
+Como o supercomputador não é capaz de criar sinapses, ou seja, caminhos, ele analisará de forma mais aprofundada ou não os caminhos existentes.
+
+O consumo de energia para o supercomputador será equivalente a aproximadamente 24820 * 10^6 watts.
+
+ 
+
+Para 2013 podemos considerar que seria necessário um supercomputador de 7.8 * 10^6 * 38 * 10^15 FLOPS para substituir o Summit.
+
+ 
+
+Como teve um aumento de 21% em relação ao numero de cientistas no mundo (2013-2018) podemos considerar que será necessário um supercomputador de 11.4 * 10^6 * 38 * 10^15 FLOPS
+
+para substituir o Summit.
+
+ 
+
+Atualmente não é viável substituir todos os cientistas, pois o consumo de energia seria imenso, porém no futuro seria possível diminuir o consumo de energia. Novos supercomputadores calcularão mais flops de forma que gaste menos recursos computacionais, logo menos energia.
+
+ 
+
+https://aiimpacts.org/brain-performance-in-flops/#Details
+
+https://en.wikipedia.org/wiki/Computer_performance_by_orders_of_magnitude
+
+https://www.scientificamerican.com/article/computers-vs-brains/
+
+https://www.quora.com/How-many-researchers-are-there-in-the-world
+
+https://en.wikipedia.org/wiki/Summit_(supercomputer)
+
+https://www.quora.com/Roughly-what-processing-power-does-the-human-brain-equate-to-In-terms-of-petaflops-or-gigahertz-not-words-it-can-process

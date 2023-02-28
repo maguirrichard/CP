@@ -1,0 +1,2 @@
+Ao usar as politicas de escalonamento do padrão reduce, me deparei com o tamanho da carga (chunk) então minha dúvida é:
+Como definir um valor bom o suficiente para dar speedup conhecendo o tamanho do 'N' do for para as politicas guided e dynamic?

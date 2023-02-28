@@ -1,0 +1,1 @@
+No exemplo do Quicksort na videoaula, quando o omp parallel section cria novas threads para executar, como identificar a thread mestra após várias recursões da section parellel? É armazenada alguma informação sobre cada thread, podendo distinguir elas?

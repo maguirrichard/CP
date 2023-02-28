@@ -1,0 +1,3 @@
+Na CPU é criada a Thread Mestra que irá ser responsável pelas outras, já na GPU existe outro conceito, o de times. Suponha que uma Thread Mestra crie duas novas threads escravas, sabendo que o processamento das duas novas threads é na GPU, utilizando o mesmo dado.
+
+O resultado que é entregue a Thread Mestra após o processamento feito na GPU, será conflitante entre as threads escravas?  

@@ -1,0 +1,1 @@
+Dependência de dados pode ser um problema na hora de paralelizar um código, na videoaula não foi mencionado o impacto da dependência de dados na vetorização do for, quando isso ocorrer, deve-se usar um omp critical? Isto vai afetar a performance do for? 
